@@ -1,6 +1,6 @@
 # QuickBooks Data Wrangler
 
-A Google Sheets add-on that pulls live QuickBooks Online data into Sheets, similar to FinOptimal's Data Wrangler. You pick a report or data type, choose a relative date range, and the add-on writes the result to a tab. The definition is saved, and the tab updates whenever someone clicks **Sync**.
+A Google Sheets add-on that pulls live QuickBooks Online data into Sheets. You pick a report or data type, choose a relative date range, and the add-on writes the result to a tab. The definition is saved, and the tab updates whenever someone clicks **Sync**.
 
 ## How people use it
 
