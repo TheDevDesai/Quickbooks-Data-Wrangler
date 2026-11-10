@@ -1,0 +1,12 @@
+{
+  "name": "quickbooks-data-wrangler",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Google Sheets add-on that pulls QuickBooks Online reports and data into Sheets.",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "push": "clasp push",
+    "open": "clasp open",
+    "bundle": "node scripts/bundle.js"
+  }
+}
